@@ -10,6 +10,12 @@ namespace MyAwesomeProgram
     {
         static void Main(string[] args)
         {
+            AwesomeStuff();
+        }
+
+        private static int AwesomeStuff()
+        {
+            return 1;
         }
     }
 }
